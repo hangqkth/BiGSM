@@ -2,6 +2,7 @@
 
 #### This is the code for BiGSM, including algorithm implementation, experiments, results analysis and visualization, and datasets.
 The main experiments are implemented in MATLAB, based on GeneSPDIER: https://bitbucket.org/sonnhammergrni/genespider/src/master/
+
 Some parts of analysis and visualizations are implemented in Python. 
 
 ## BiGSM_matlab
